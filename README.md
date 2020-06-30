@@ -1,6 +1,6 @@
 # Visual Studio Code Extension - Convert HTML to Pug
 
-![Logo](./logo.png)
+![Logo](https://raw.githubusercontent.com/getditto/convert-html-to-pug/master/logo.png)
 
 ## Features
 
