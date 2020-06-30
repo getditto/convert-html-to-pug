@@ -35,7 +35,7 @@ export function activate(context: vscode.ExtensionContext) {
       );
       let text = editor.document.getText(selection);
       try {
-        let newString = html2pug(text);
+        let newString = html2pug(text, { fragment: true, doubleQuotes: true });
         editor.edit(function (editBuilder: vscode.TextEditorEdit) {
           editBuilder.replace(range, newString);
         });
