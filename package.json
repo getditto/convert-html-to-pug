@@ -1,7 +1,8 @@
 {
   "name": "convert-html-to-pug",
-  "displayName": "convert-html-to-pug",
-  "description": "Right click and convert HTML to Pug (formerly known as Jade)",
+  "displayName": "Convert HTML to Pug",
+  "publisher": "ditto",
+  "description": "VSCode extension to right click and convert HTML to Pug (formerly known as Jade)",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.46.0"
