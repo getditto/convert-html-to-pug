@@ -4,7 +4,7 @@
   "publisher": "ditto",
   "description": "VSCode extension to right click and convert HTML to Pug (formerly known as Jade)",
   "version": "0.0.2",
-  "icon": "logo.png",
+  "icon": "https://github.com/getditto/convert-html-to-pug/blob/master/logo.png",
   "engines": {
     "vscode": "^1.46.0"
   },
