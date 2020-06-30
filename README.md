@@ -1,5 +1,7 @@
 # Visual Studio Code Extension - Convert HTML to Pug
 
+![Logo](./logo.png)
+
 ## Features
 
 1. Select Text and right click over selected text and select "Convert HTML to Pug". Then the extension will attempt to convert the text 
